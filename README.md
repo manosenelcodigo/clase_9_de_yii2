@@ -41,3 +41,8 @@ Reglas de validación
 --------------------
 
 Validaciones tipo entero, único, string, numérico, escenarios, validaciones personalizadas
+
+Clase 9
+=======
+
+Métodos behaviors y beforeSave
